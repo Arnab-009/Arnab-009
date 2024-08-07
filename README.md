@@ -1,4 +1,4 @@
-<img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" alt="Happy Coding" width="100%" height="300">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WLTLWPqkk_d9dZUI-EPnrg.jpeg" alt="Happy Coding" width="100%" height="300">
 <h1 align="center">Hi 👋, I'm Arnab Dutta</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
