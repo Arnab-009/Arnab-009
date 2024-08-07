@@ -1,4 +1,4 @@
-![logo](https://github.com/Arnab-009/Arnab-009/blob/main/artificial-intelligence-7328583.jpg)
+![logo](https://github.com/Arnab-009/Arnab-009/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arnab Dutta</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
