@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*WLTLWPqkk_d9dZUI-EPnrg.jpeg" alt="Happy Coding" width="100%" height="300">
+<img src="https://blog.enterprisedna.co/wp-content/uploads/2023/11/overview-of-machine-learning-software-engineering-1024x585.webp" alt="Happy Coding" width="100%" height="300">
 <h1 align="center">Hi 👋, I'm Arnab Dutta</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-009&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-009" /> </p>
 
-- 🔭 I’m currently studying Masters of Computer Application 
+- 🔭 I’m currently pursuing Masters of Computer Application 
 
 - ⚡ Fun fact **Yes i am funny and fun loving**
 
