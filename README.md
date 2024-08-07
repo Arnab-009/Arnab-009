@@ -1,6 +1,6 @@
 <img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" alt="Happy Coding" width="100%" height="300">
 <h1 align="center">Hi 👋, I'm Arnab Dutta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Machine Learning Enthusiast</h3>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVnaHVzZHo5dXpzaXB3bzVjbWQ1M2x0MmJyenV5ZTRzbmJpbHJ3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Happy Coding" width="350" align="right">
 
